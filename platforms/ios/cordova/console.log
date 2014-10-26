@@ -1,0 +1,8 @@
+2014-10-25 20:14:55.693 freshlypressed[64775:80b] Multi-tasking -> Device: YES, App: YES
+2014-10-25 20:14:55.718 freshlypressed[64775:80b] Unlimited access to network resources
+2014-10-25 20:14:56.121 freshlypressed[64775:80b] [CDVTimer][keyboard] 0.095010ms
+2014-10-25 20:14:56.122 freshlypressed[64775:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-10-25 20:14:56.123 freshlypressed[64775:80b] [CDVTimer][statusbar] 0.795007ms
+2014-10-25 20:14:56.123 freshlypressed[64775:80b] [CDVTimer][TotalPluginStartup] 2.103984ms
+2014-10-25 20:14:56.425 freshlypressed[64775:80b] Resetting plugins due to page load.
+2014-10-25 20:14:56.871 freshlypressed[64775:80b] Finished load of: file:///Users/naderdabit/Library/Developer/CoreSimulator/Devices/4A4741E3-E81A-4A79-A2AE-AA3F883848A8/data/Applications/F51D358D-CCEB-47AA-9CA8-7D25CE5DB232/freshlypressed.app/www/index.html
