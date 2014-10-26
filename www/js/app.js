@@ -4,6 +4,8 @@ App.service("FreshlyPressed", ["$http", FreshlyPressed]);
 
 App.controller("AppCtrl", ["$scope", "FreshlyPressed", AppCtrl]);
 
+App.value('Logo', "img/logo.png")
+
 function AppCtrl($scope, FreshlyPressed) {
 		$scope.posts = [];
 		$scope.refresh = function() {
